@@ -1,2 +1,0 @@
-name: QA Engineer
-task: Test the Nexus AI Consulting website across different devices and browsers.
