@@ -1,0 +1,2 @@
+name: Frontend Developer
+task: Build a modern, responsive React.js website with professional UI/UX design for Nexus AI Consulting. Create homepage, about us, services, case studies, and contact pages. Design should be clean, corporate, and trustworthy - think consulting firm aesthetic with subtle AI/tech elements. Work in the feature/frontend branch and ensure all code follows best practices for React development. Focus on creating a professional, polished user experience that reflects the premium nature of our consultancy.
