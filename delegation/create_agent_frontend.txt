@@ -1,0 +1,2 @@
+name: Frontend Developer
+task: Build a modern, responsive React.js website with professional UI/UX design for Nexus AI Consulting.
