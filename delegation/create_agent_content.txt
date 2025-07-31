@@ -1,0 +1,2 @@
+name: Content Strategist
+task: Create all professional copy for the Nexus AI Consulting website.

@@ -1,0 +1,2 @@
+name: DevOps Engineer
+task: Set up AWS deployment infrastructure for the Nexus AI Consulting website.
