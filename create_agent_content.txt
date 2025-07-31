@@ -1,2 +1,0 @@
-name: Content Strategist
-task: Create all professional copy for the Nexus AI Consulting website. Develop compelling service descriptions for AI strategy consulting, process automation, talent outsourcing, and digital transformation services. Create realistic case studies and company information that positions Nexus AI Consulting as a premium boutique firm. Ensure all content is SEO-optimized and aligns with our brand voice. Work in the feature/content branch and collaborate with the Frontend Developer to ensure content fits the design properly.

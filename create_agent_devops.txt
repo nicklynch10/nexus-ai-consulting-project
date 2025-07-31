@@ -1,2 +1,0 @@
-name: DevOps Engineer
-task: Set up AWS deployment infrastructure for the Nexus AI Consulting website. Configure AWS S3 for static hosting, CloudFront for CDN, Route 53 for domain management, and implement CI/CD pipeline using GitHub Actions. Ensure the site is accessible via a professional URL with SSL certificates configured. Implement proper security measures, monitoring, and automated deployment processes. Work in the feature/devops branch and document all infrastructure decisions in the project documentation.
